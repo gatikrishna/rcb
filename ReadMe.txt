@@ -1,0 +1,1 @@
+We can execute the tests by going to the AppTest and execute as junit test
